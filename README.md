@@ -1,4 +1,4 @@
-# Artur Przychodzen — Resume
+# Artur Przychodzeń — Resume
 
 Personal online resume. Built with vanilla HTML, CSS, and JavaScript.
 
